@@ -1,0 +1,6 @@
+{
+  "name": "Parallel Perspectives — Issue 01 Monsoon",
+  "description": "An independent quarterly photography magazine founded by Dev Pedhadia and Khushal Nasit exploring contrasting perspectives and visual poetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
